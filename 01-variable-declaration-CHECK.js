@@ -8,7 +8,6 @@
  * 3. Print the value of the variable in the console
  */
 
-
 const myCountry = 'France';
 
 console.log(myCountry);
